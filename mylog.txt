@@ -1,0 +1,23 @@
+done physical excersize at time: 2022-08-11 22:59:34.508137
+done water time: 2022-08-11 22:59:36.940853
+done eyes excersize at time: 2022-08-11 22:59:39.314350
+done physical excersize at time: 2022-08-11 22:59:58.341428
+done water time: 2022-08-11 23:00:00.265617
+done eyes excersize at time: 2022-08-11 23:00:02.322735
+done water time: 2022-08-11 23:00:08.218762
+done eyes excersize at time: 2022-08-11 23:00:16.347790
+done physical excersize at time: 2022-08-11 23:00:18.982624
+done water time: 2022-08-11 23:00:20.615828
+done physical excersize at time: 2022-08-12 08:30:34.287587
+done water time: 2022-08-12 08:30:41.469207
+done eyes excersize at time: 2022-08-12 08:30:55.126078
+done physical excersize at time: 2022-08-12 08:31:09.309229
+done water time: 2022-08-12 08:31:18.862490
+done eyes excersize at time: 2022-08-12 08:31:38.859059
+done physical excersize at time: 2022-08-12 10:19:46.815113
+done physical excersize at time: 2022-08-22 08:44:42.752431
+done water time: 2022-08-22 08:44:48.333415
+done eyes excersize at time: 2022-08-22 08:44:51.281280
+done physical excersize at time: 2022-08-22 08:45:00.884727
+done water time: 2022-08-22 08:45:03.522268
+done eyes excersize at time: 2022-08-22 08:45:08.134387
